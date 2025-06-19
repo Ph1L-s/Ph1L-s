@@ -90,7 +90,4 @@ I'm a dedicated **Frontend Developer** with a passion for creating beautiful, fu
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="70"/>
-</div>
 
